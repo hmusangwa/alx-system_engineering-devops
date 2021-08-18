@@ -1,0 +1,1 @@
+This is the 0x00. Shell, basics section 2 Bash project.
