@@ -1,0 +1,1 @@
+this is the shell_redirection directory for shell project 0x02
