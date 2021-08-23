@@ -1,1 +1,1 @@
-This is the 0x00. Shell, basics section 2 Bash project.
+This is the 0x00. Shell, basics, permissions, redirections, variables, and expansions Bash project. ALX section 2.
